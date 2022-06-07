@@ -1,4 +1,7 @@
 # MarketEye
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+
 CS180 Machine Project Requirement
 
 The Machine Solution is in a Python Notebook. Each cell must be run in order.
